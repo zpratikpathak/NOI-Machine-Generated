@@ -16,3 +16,10 @@ Here "Restating the setup:" is considered as title of thought
 
 File Name: 
 ~~~
+
+Metadata Value Check
+~~~
+Number of approches and time complexity mentioned in the metadata does not match with the chains, can you tell me what to update and where
+
+Also number of chains  mentioned in the metadata does not match with the number of chains, can you update the number of chains
+~~~
